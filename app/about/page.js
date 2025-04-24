@@ -45,7 +45,7 @@ export default function Page() {
         />
       </div>
 
-      {/* بخش دوم - متن */}
+
       <div className="md:col-span-3 order-3 md:order-4">
         <h1 className="text-3xl md:text-4xl mb-6 md:mb-10 text-accent-400 font-medium">
           تاسیس از سال 1392
