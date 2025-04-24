@@ -33,7 +33,7 @@ export default function Page() {
         <img
           src="/about-1.jpg"
           alt="دست دادن دو فرد"
-          className="w-full h-auto rounded-lg"
+          className="w-full h-auto "
         />
       </div>
 
@@ -41,10 +41,9 @@ export default function Page() {
         <img
           src="/about-2.jpg"
           alt="عکس از آقای یوسفی"
-          className="w-full h-auto rounded-lg"
+          className="w-full h-auto "
         />
       </div>
-
 
       <div className="md:col-span-3 order-3 md:order-4">
         <h1 className="text-3xl md:text-4xl mb-6 md:mb-10 text-accent-400 font-medium">
